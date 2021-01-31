@@ -1,26 +1,26 @@
 # savings
 
-## Project setup
+## Set Up
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile with hot reload for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and minify for production
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Run unit tests
 ```
 npm run test:unit
 ```
 
-### Lints and fixes files
+### Lint and fix files
 ```
 npm run lint
 ```
